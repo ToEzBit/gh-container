@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": 0,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-action.json": "file:///Users/toezbit/Documents/PlayGround/github-action/01%20Starting%20Project/.github/workflows/deploy.yml"
+  }
+}
